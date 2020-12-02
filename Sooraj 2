@@ -1,0 +1,4 @@
+File_name=input("input the file name ")
+if py in File_name:
+      Print("the extension of the file is ", python)
+
